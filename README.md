@@ -12,6 +12,7 @@
 - Admin Protected Routes
 - Forgot Password and Reset Password for a User
 
+
 ### Built using
 - Spring boot
 - Html, Bootstrap
@@ -19,3 +20,4 @@
 - BCrpypt Encoder
 - MySQL, Hibernate
 - MultipartFile
+- Thymeleaf
